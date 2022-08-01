@@ -7,6 +7,6 @@ The project is based on a digital clock. This helps us when we know the present 
 
 ### Libraries used in the code:
 
-1.	stdio.h - The header file stdio. h stands for Standard Input Output. It has the information related to input/output functions.
-2.	unistd.h - The header file unistd.h is the name of the header file that provides access to the POSIX operating system API. It defines miscellaneous symbolic constants and types, and declares miscellaneous functions.
+1. **stdio.h** - The header file stdio. h stands for Standard Input Output. It has the information related to input/output functions.
+2. **unistd.h** - The header file unistd.h is the name of the header file that provides access to the POSIX operating system API. It defines miscellaneous symbolic constants and types, and declares miscellaneous functions.
 
