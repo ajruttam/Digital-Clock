@@ -4,7 +4,7 @@
 
 The project is based on a digital clock. This helps us when we know the present time but can’t keep a record of the future time. It is similar to a watch. Once you set the present time, it works the same way as a watch does. It also has feature called the *'Day Change Indicator'*. This is an infinite loop program. One can close the terminal window for termination of the execution.
 
----
+![clock](./clock.jpeg)
 
 ### Libraries used in the code:
 
