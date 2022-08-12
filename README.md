@@ -17,6 +17,7 @@ The project is based on a digital clock. This helps us when we know the present 
 
 + **time** module **sleep** funtion - This module provides various time-related functions. Python time sleep function is used to add delay in the execution of a program. It is used to halt the execution of the program for given time in seconds.
 
+<!--
 ---
 
 #### Video links:
@@ -25,3 +26,4 @@ The project is based on a digital clock. This helps us when we know the present 
 2. Demo 2 (in C): https://youtu.be/XvpgKWp3Nj8
 3. Demo 1 (in Python): https://youtu.be/9T3QJolDhnY
 4. Demo 2 (in Python): https://youtu.be/e7PHqRpybYI
+-->
